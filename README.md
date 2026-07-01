@@ -43,14 +43,17 @@ This project demonstrates the integration of Computer Vision, Generative AI, and
 8. The reconstructed audio is saved as an MP3 file.
 
 ---
+## 📁 Project Structure
+
+```text
 Speech-Reconstruction-Project/
-│── main.py                     # Main application
-│── requirements.txt            # Python dependencies
-│── .gitignore                  # Git ignored files
-│── README.md                   # Project documentation
-│── reconstructed_audio.mp3     # Generated output (after execution)
-│── sample_video.mp4            # Sample silent video (optional)
-│
+│── main.py                  # Main application
+│── requirements.txt         # Project dependencies
+│── .gitignore               # Files ignored by Git
+│── README.md                # Project documentation
+│── sample_video.mp4         # Sample silent video (optional)
+│── reconstructed_audio.mp3  # Generated audio output (created after execution)
+```
 
 ## Installation
 
